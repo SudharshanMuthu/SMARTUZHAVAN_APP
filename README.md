@@ -349,8 +349,6 @@ flutter run
 assets/screenshots/
 ```
 
-### Suggested Screenshots
-
 * Splash Screen
 * Login Screen
 * Farmer Dashboard
