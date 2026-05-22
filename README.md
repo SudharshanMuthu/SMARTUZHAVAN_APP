@@ -1,12 +1,9 @@
-# SMARTUZHAVAN_APP
-SMART UZHAVAN is an AI-powered precision agriculture and marketplace mobile app built using Flutter &amp; Firebase. It connects farmers, buyers, transporters, and warehouse owners with smart crop trading, logistics, weather insights, AI assistance, and real-time agriculture services.
-
 # 🌱 SMART UZHAVAN
-
+SMART UZHAVAN is an AI-powered precision agriculture and marketplace mobile app built using Flutter &amp; Firebase. It connects farmers, buyers, transporters, and warehouse owners with smart crop trading, logistics, weather insights, AI assistance, and real-time agriculture services.
 ## AI-Powered Precision Agriculture & Smart Marketplace Ecosystem
 
 <p align="center">
-  <img src="assets/screenshots/banner.png" width="100%" alt="Smart Uzhavan Banner"/>
+  <img src="banner.png" width="100%" alt="Smart Uzhavan Banner"/>
 </p>
 
 <p align="center">
