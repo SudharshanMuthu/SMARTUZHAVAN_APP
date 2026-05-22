@@ -3,7 +3,7 @@ SMART UZHAVAN is an AI-powered precision agriculture and marketplace mobile app 
 ## AI-Powered Precision Agriculture & Smart Marketplace Ecosystem
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Smart Uzhavan Banner"/>
+  <img src="bannersmartuzhavan.png" width="100%" alt="Smart Uzhavan Banner"/>
 </p>
 
 <p align="center">
