@@ -1,7 +1,7 @@
 # 🌱 SMART UZHAVAN
 SMART UZHAVAN is an AI-powered precision agriculture and marketplace mobile app built using Flutter &amp; Firebase. It connects farmers, buyers, transporters, and warehouse owners with smart crop trading, logistics, weather insights, AI assistance, and real-time agriculture services.
 ## AI-Powered Precision Agriculture & Smart Marketplace Ecosystem
-
+apk link : https://drive.google.com/file/d/1Owit-uT9kZSy-oRSvduTzi2edQzJwVNL/view?usp=sharing
 <p align="center">
   <img src="bannersmartuzhavan.png" width="100%" alt="Smart Uzhavan Banner"/>
 </p>
@@ -258,6 +258,7 @@ The application follows a:
 ---
 
 # 📂 Project Structure
+
 project files:  https://drive.google.com/drive/folders/1URs0vo5vjYX-pPsh17o5liPyKXAREWF_?usp=sharing
 
 ```bash
@@ -363,7 +364,7 @@ assets/screenshots/
 ---
 
 # 📦 APK Included
- https://drive.google.com/drive/folders/1URs0vo5vjYX-pPsh17o5liPyKXAREWF_?usp=sharing
+apk link : https://drive.google.com/file/d/1Owit-uT9kZSy-oRSvduTzi2edQzJwVNL/view?usp=sharing
 
 The APK file is included in this repository for:
 
